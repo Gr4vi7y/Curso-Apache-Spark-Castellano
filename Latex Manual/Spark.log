@@ -1,0 +1,1481 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.3)  20 APR 2021 09:17
+entering extended mode
+**./Spark.tex
+(Spark.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count188
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks15
+\es@quotdepth=\count189
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(C:\Program Files\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen140
+\WF@size=\dimen141
+\c@WF@wrappedlines=\count190
+\WF@box=\box47
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count191
+\float@exts=\toks20
+\float@box=\box48
+\@float@everytoks=\toks21
+\@floatcapt=\box49
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen144
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen145
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count192
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count193
+\leftroot@=\count194
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count195
+\DOTSCASE@=\count196
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count197
+\c@MaxMatrixCols=\count198
+\dotsspace@=\muskip16
+\c@parentequation=\count199
+\dspbrk@lvl=\count266
+\tag@help=\toks23
+\row@=\count267
+\column@=\count268
+\maxfields@=\count269
+\andhelp@=\toks24
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks25
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count270
+\lst@gtempboxa=\box52
+\lst@token=\toks27
+\lst@length=\count271
+\lst@currlwidth=\dimen153
+\lst@column=\count272
+\lst@pos=\count273
+\lst@lostspace=\dimen154
+\lst@width=\dimen155
+\lst@newlines=\count274
+\lst@lineno=\count275
+\lst@maxwidth=\dimen156
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count276
+\lst@skipnumbers=\count277
+\lst@framebox=\box53
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Program Files\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Program Files\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/anysize\anysize.sty
+Package: anysize 1994/08/13 setting margin sizes
+
+document style option `anysize' loaded
+Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
+Version 1.0, Aug 13, 1994
+\@Leftmargin=\dimen157
+\@Rightmargin=\dimen158
+\@Topmargin=\dimen159
+\@Bottommargin=\dimen160
+) (C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip52
+\subfigcapskip=\skip53
+\subfigcaptopadj=\dimen161
+\subfigbottomskip=\skip54
+\subfigcapmargin=\dimen162
+\subfiglabelskip=\skip55
+\c@subfigure=\count278
+\c@lofdepth=\count279
+\c@subtable=\count280
+\c@lotdepth=\count281
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip56
+\subfig@bottom=\skip57
+)
+(C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count282
+\Hy@pagecounter=\count283
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
+)
+(C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count284
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count285
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen164
+
+(C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count286
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count287
+\c@Item=\count288
+\c@Hfootnote=\count289
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count290
+\c@bookmark@seq@number=\count291
+
+(C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip67
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count292
+\l__pdf_internal_box=\box54
+) (Spark.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+\openout1 = `Spark.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen167
+\scratchbox=\box55
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen168
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks29
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@lstlisting=\count299
+Package hyperref Info: Link coloring ON on input line 32.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count300
+)
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
+
+(Spark.out) (Spark.out)
+\@outlinefile=\write3
+\openout3 = `Spark.out'.
+
+<./fotos/introduccion/Apache_Spark_logo.jpg, id=175, 1409.265pt x 730.22812pt>
+File: ./fotos/introduccion/Apache_Spark_logo.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/Apache_Spark_logo.jpg>
+Package pdftex.def Info: ./fotos/introduccion/Apache_Spark_logo.jpg  used on in
+put line 35.
+(pdftex.def)             Requested size: 340.0pt x 176.172pt.
+ [1
+
+{C:/Users/Gr4vi7y/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./fotos/intro
+duccion/Apache_Spark_logo.jpg>] (Spark.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 4.
+
+
+(C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [2
+
+])
+\tf@toc=\write4
+\openout4 = `Spark.toc'.
+
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [3]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [4
+
+]
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+ [5
+
+]
+<./fotos/introduccion/24 - openjdk (V).jpg, id=246, 518.6878pt x 493.845pt>
+File: ./fotos/introduccion/24 - openjdk (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/24 - openjdk (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/24 - openjdk (V).jpg  used on inp
+ut line 95.
+(pdftex.def)             Requested size: 236.86758pt x 225.52872pt.
+<./fotos/introduccion/25 - openjdk (V).jpg, id=247, 532.99126pt x 490.83376pt>
+File: ./fotos/introduccion/25 - openjdk (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/25 - openjdk (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/25 - openjdk (V).jpg  used on inp
+ut line 97.
+(pdftex.def)             Requested size: 236.86758pt x 218.13199pt.
+LaTeX Info: Redefining \. on input line 100.
+LaTeX Info: Redefining \% on input line 100.
+ [6
+
+ <./fotos/introduccion/24 - openjdk (V).jpg> <./fotos/introduccion/25 - openjdk
+ (V).jpg>]
+<./fotos/introduccion/6 - Java.jpg, id=256, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/6 - Java.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/6 - Java.jpg>
+Package pdftex.def Info: ./fotos/introduccion/6 - Java.jpg  used on input line 
+110.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+[7
+
+ <./fotos/introduccion/6 - Java.jpg>]
+<./fotos/introduccion/7 - Java.jpg, id=262, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/7 - Java.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/7 - Java.jpg>
+Package pdftex.def Info: ./fotos/introduccion/7 - Java.jpg  used on input line 
+128.
+(pdftex.def)             Requested size: 425.0pt x 238.94386pt.
+<./fotos/introduccion/8 - Java (V).jpg, id=263, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/8 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/8 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/8 - Java (V).jpg  used on input l
+ine 136.
+(pdftex.def)             Requested size: 425.0pt x 238.94386pt.
+LaTeX Info: Redefining \. on input line 141.
+LaTeX Info: Redefining \% on input line 141.
+ [8
+
+ <./fotos/introduccion/7 - Java.jpg> <./fotos/introduccion/8 - Java (V).jpg>]
+<./fotos/introduccion/9 - Java (V).jpg, id=268, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/9 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/9 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/9 - Java (V).jpg  used on input l
+ine 146.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+<./fotos/introduccion/10 - Java.jpg, id=269, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/10 - Java.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/10 - Java.jpg>
+Package pdftex.def Info: ./fotos/introduccion/10 - Java.jpg  used on input line
+ 154.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 160.
+LaTeX Info: Redefining \% on input line 160.
+ [9 <./fotos/introduccion/9 - Java (V).jpg> <./fotos/introduccion/10 - Java.jpg
+>]
+<./fotos/introduccion/11 - Java (V).jpg, id=274, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/11 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/11 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/11 - Java (V).jpg  used on input 
+line 166.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/introduccion/12 - Java (V).jpg, id=275, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/12 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/12 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/12 - Java (V).jpg  used on input 
+line 176.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 180.
+LaTeX Info: Redefining \% on input line 180.
+ [10
+
+ <./fotos/introduccion/11 - Java (V).jpg> <./fotos/introduccion/12 - Java (V).j
+pg>]
+<./fotos/introduccion/13 - Java (V).jpg, id=281, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/13 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/13 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/13 - Java (V).jpg  used on input 
+line 186.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/introduccion/14 - Java.jpg, id=282, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/14 - Java.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/14 - Java.jpg>
+Package pdftex.def Info: ./fotos/introduccion/14 - Java.jpg  used on input line
+ 194.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 200.
+LaTeX Info: Redefining \% on input line 200.
+ [11
+
+ <./fotos/introduccion/13 - Java (V).jpg> <./fotos/introduccion/14 - Java.jpg>]
+<./fotos/introduccion/15 - Java (V).jpg, id=287, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/15 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/15 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/15 - Java (V).jpg  used on input 
+line 206.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 214.
+LaTeX Info: Redefining \% on input line 214.
+ [12
+
+ <./fotos/introduccion/15 - Java (V).jpg>]
+<./fotos/introduccion/web anaconda.jpg, id=293, 1413.78188pt x 703.87968pt>
+File: ./fotos/introduccion/web anaconda.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/web anaconda.jpg>
+Package pdftex.def Info: ./fotos/introduccion/web anaconda.jpg  used on input l
+ine 233.
+(pdftex.def)             Requested size: 450.0pt x 224.04318pt.
+LaTeX Info: Redefining \. on input line 237.
+LaTeX Info: Redefining \% on input line 237.
+ [13
+
+ <./fotos/introduccion/web anaconda.jpg>]
+<./fotos/introduccion/web Anaconda 2.jpg, id=299, 1388.93906pt x 684.30656pt>
+File: ./fotos/introduccion/web Anaconda 2.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/web Anaconda 2.jpg>
+Package pdftex.def Info: ./fotos/introduccion/web Anaconda 2.jpg  used on input
+ line 243.
+(pdftex.def)             Requested size: 450.0pt x 221.70784pt.
+<./fotos/introduccion/web Anaconda 3.jpg, id=300, 1415.2875pt x 686.565pt>
+File: ./fotos/introduccion/web Anaconda 3.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/web Anaconda 3.jpg>
+Package pdftex.def Info: ./fotos/introduccion/web Anaconda 3.jpg  used on input
+ line 251.
+(pdftex.def)             Requested size: 450.0pt x 218.291pt.
+LaTeX Info: Redefining \. on input line 255.
+LaTeX Info: Redefining \% on input line 255.
+ [14
+
+ <./fotos/introduccion/web Anaconda 2.jpg> <./fotos/introduccion/web Anaconda 3
+.jpg>]
+<./fotos/introduccion/0 - Instalacion Anaconda.jpg, id=305, 1028.34187pt x 578.
+16pt>
+File: ./fotos/introduccion/0 - Instalacion Anaconda.jpg Graphic file (type jpg)
+
+<use ./fotos/introduccion/0 - Instalacion Anaconda.jpg>
+Package pdftex.def Info: ./fotos/introduccion/0 - Instalacion Anaconda.jpg  use
+d on input line 264.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+<./fotos/introduccion/1 - anaconda (V).jpg, id=306, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/1 - anaconda (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/1 - anaconda (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/1 - anaconda (V).jpg  used on inp
+ut line 273.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+<./fotos/introduccion/2 - anaconda.jpg, id=307, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/2 - anaconda.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/2 - anaconda.jpg>
+Package pdftex.def Info: ./fotos/introduccion/2 - anaconda.jpg  used on input l
+ine 283.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 286.
+LaTeX Info: Redefining \% on input line 286.
+
+[15
+
+ <./fotos/introduccion/0 - Instalacion Anaconda.jpg> <./fotos/introduccion/1 - 
+anaconda (V).jpg>]
+<./fotos/introduccion/3 - anaconda (V).jpg, id=312, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/3 - anaconda (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/3 - anaconda (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/3 - anaconda (V).jpg  used on inp
+ut line 294.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
+ [16 <./fotos/introduccion/2 - anaconda.jpg> <./fotos/introduccion/3 - anaconda
+ (V).jpg>]
+<./fotos/introduccion/5 - Spark 2 (V).jpg, id=318, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/5 - Spark 2 (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/5 - Spark 2 (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/5 - Spark 2 (V).jpg  used on inpu
+t line 310.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/introduccion/4 - Spark (V).jpg, id=319, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/4 - Spark (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/4 - Spark (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/4 - Spark (V).jpg  used on input 
+line 318.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 321.
+LaTeX Info: Redefining \% on input line 321.
+ [17 <./fotos/introduccion/5 - Spark 2 (V).jpg>]
+<./fotos/introduccion/16 - Spark.jpg, id=325, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/16 - Spark.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/16 - Spark.jpg>
+Package pdftex.def Info: ./fotos/introduccion/16 - Spark.jpg  used on input lin
+e 332.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 337.
+LaTeX Info: Redefining \% on input line 337.
+[18 <./fotos/introduccion/4 - Spark (V).jpg> <./fotos/introduccion/16 - Spark.j
+pg>]
+<./fotos/introduccion/17 - Hadoop.jpg, id=332, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/17 - Hadoop.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/17 - Hadoop.jpg>
+Package pdftex.def Info: ./fotos/introduccion/17 - Hadoop.jpg  used on input li
+ne 344.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/introduccion/18 - Pyspark funcionando (V).jpg, id=333, 1028.34187pt x 
+578.16pt>
+File: ./fotos/introduccion/18 - Pyspark funcionando (V).jpg Graphic file (type 
+jpg)
+<use ./fotos/introduccion/18 - Pyspark funcionando (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/18 - Pyspark funcionando (V).jpg 
+ used on input line 366.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 369.
+LaTeX Info: Redefining \% on input line 369.
+ [19 <./fotos/introduccion/17 - Hadoop.jpg>]
+<./fotos/introduccion/18 - Scala funcionando (V).jpg, id=339, 1028.34187pt x 57
+8.16pt>
+File: ./fotos/introduccion/18 - Scala funcionando (V).jpg Graphic file (type jp
+g)
+<use ./fotos/introduccion/18 - Scala funcionando (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/18 - Scala funcionando (V).jpg  u
+sed on input line 372.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/introduccion/19 - notebook desde comandos (V).jpg, id=340, 1028.34187p
+t x 578.16pt>
+File: ./fotos/introduccion/19 - notebook desde comandos (V).jpg Graphic file (t
+ype jpg)
+<use ./fotos/introduccion/19 - notebook desde comandos (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/19 - notebook desde comandos (V).
+jpg  used on input line 384.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 386.
+LaTeX Info: Redefining \% on input line 386.
+ [20 <./fotos/introduccion/18 - Pyspark funcionando (V).jpg> <./fotos/introducc
+ion/18 - Scala funcionando (V).jpg>]
+<./fotos/introduccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg, id=34
+5, 1028.34187pt x 578.16pt>
+File: ./fotos/introduccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg G
+raphic file (type jpg)
+<use ./fotos/introduccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/21 - Abriendo notebook al ejecuta
+r pyspark (V).jpg  used on input line 392.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg, id=346, 1028.34
+187pt x 578.16pt>
+File: ./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg Graphic fil
+e (type jpg)
+<use ./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/20 - instalando pyspark anaconda 
+(V).jpg  used on input line 400.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 403.
+LaTeX Info: Redefining \% on input line 403.
+ [21 <./fotos/introduccion/19 - notebook desde comandos (V).jpg> <./fotos/intro
+duccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg>]
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+<./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg, id=351, 10
+28.34187pt x 578.16pt>
+File: ./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg Graphi
+c file (type jpg)
+<use ./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/22 - Scala desde notebook de anac
+onda (V).jpg  used on input line 434.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 437.
+LaTeX Info: Redefining \% on input line 437.
+ [22 <./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg>]
+<./fotos/introduccion/23 - Scala en notebook funcionando (V).jpg, id=363, 1028.
+34187pt x 578.16pt>
+File: ./fotos/introduccion/23 - Scala en notebook funcionando (V).jpg Graphic f
+ile (type jpg)
+<use ./fotos/introduccion/23 - Scala en notebook funcionando (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/23 - Scala en notebook funcionand
+o (V).jpg  used on input line 442.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 455.
+LaTeX Info: Redefining \% on input line 455.
+ [23 <./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg> <./fo
+tos/introduccion/23 - Scala en notebook funcionando (V).jpg>]
+<./fotos/Kafka/01 (V).jpg, id=371, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/01 (V).jpg Graphic file (type jpg)
+<use ./fotos/Kafka/01 (V).jpg>
+Package pdftex.def Info: ./fotos/Kafka/01 (V).jpg  used on input line 471.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+<./fotos/Kafka/02 (V).jpg, id=372, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/02 (V).jpg Graphic file (type jpg)
+<use ./fotos/Kafka/02 (V).jpg>
+Package pdftex.def Info: ./fotos/Kafka/02 (V).jpg  used on input line 479.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 487.
+LaTeX Info: Redefining \% on input line 487.
+ [24
+
+ <./fotos/Kafka/01 (V).jpg> <./fotos/Kafka/02 (V).jpg>]
+<./fotos/Kafka/03 (V).jpg, id=377, 1028.34187pt x 548.0475pt>
+File: ./fotos/Kafka/03 (V).jpg Graphic file (type jpg)
+<use ./fotos/Kafka/03 (V).jpg>
+Package pdftex.def Info: ./fotos/Kafka/03 (V).jpg  used on input line 493.
+(pdftex.def)             Requested size: 450.0pt x 239.82872pt.
+File: ./fotos/introduccion/7 - Java.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/7 - Java.jpg>
+Package pdftex.def Info: ./fotos/introduccion/7 - Java.jpg  used on input line 
+503.
+(pdftex.def)             Requested size: 425.0pt x 238.94386pt.
+LaTeX Info: Redefining \. on input line 507.
+LaTeX Info: Redefining \% on input line 507.
+ [25 <./fotos/Kafka/03 (V).jpg>]
+File: ./fotos/introduccion/8 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/8 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/8 - Java (V).jpg  used on input l
+ine 513.
+(pdftex.def)             Requested size: 425.0pt x 238.94386pt.
+File: ./fotos/introduccion/9 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/9 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/9 - Java (V).jpg  used on input l
+ine 523.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 527.
+LaTeX Info: Redefining \% on input line 527.
+ [26
+
+]
+<./fotos/Kafka/04.jpg, id=387, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/04.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/04.jpg>
+Package pdftex.def Info: ./fotos/Kafka/04.jpg  used on input line 533.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+File: ./fotos/introduccion/12 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/12 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/12 - Java (V).jpg  used on input 
+line 545.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+File: ./fotos/introduccion/13 - Java (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/13 - Java (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/13 - Java (V).jpg  used on input 
+line 553.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 556.
+LaTeX Info: Redefining \% on input line 556.
+ [27
+
+ <./fotos/Kafka/04.jpg>]
+<./fotos/Kafka/05 (V).jpg, id=392, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/05 (V).jpg Graphic file (type jpg)
+<use ./fotos/Kafka/05 (V).jpg>
+Package pdftex.def Info: ./fotos/Kafka/05 (V).jpg  used on input line 561.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 567.
+LaTeX Info: Redefining \% on input line 567.
+
+[28 <./fotos/Kafka/05 (V).jpg>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
+71.
+
+(C:\Program Files\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 571.
+<./fotos/Kafka/06.jpg, id=397, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/06.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/06.jpg>
+Package pdftex.def Info: ./fotos/Kafka/06.jpg  used on input line 575.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+<./fotos/Kafka/07.jpg, id=398, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/07.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/07.jpg>
+Package pdftex.def Info: ./fotos/Kafka/07.jpg  used on input line 583.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+
+Overfull \hbox (41.27036pt too wide) in paragraph at lines 587--588
+\OT1/cmr/m/n/10 cia-li-za-do Apa-che Zoo-kee-per. Aho-ra eje-cu-ta-re-mos Kaf-k
+a Bro-ke-r/-Ser-ver. En es-te ca-so es-cri-bi-re-mos \OT1/cmr/bx/n/10 C:\OMS/cm
+sy/b/n/10 n\OT1/cmr/bx/n/10 Kafka\OMS/cmsy/b/n/10 n\OT1/cmr/bx/n/10 bin\OMS/cms
+y/b/n/10 n\OT1/cmr/bx/n/10 windows\OMS/cmsy/b/n/10 n\OT1/cmr/bx/n/10 kafka-
+ []
+
+<./fotos/Kafka/08.jpg, id=399, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/08.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/08.jpg>
+Package pdftex.def Info: ./fotos/Kafka/08.jpg  used on input line 591.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 594.
+LaTeX Info: Redefining \% on input line 594.
+[29
+
+ <./fotos/Kafka/06.jpg> <./fotos/Kafka/07.jpg>]
+<./fotos/Kafka/09.jpg, id=405, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/09.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/09.jpg>
+Package pdftex.def Info: ./fotos/Kafka/09.jpg  used on input line 599.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+<./fotos/Kafka/10.jpg, id=406, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/10.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/10.jpg>
+Package pdftex.def Info: ./fotos/Kafka/10.jpg  used on input line 607.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 610.
+LaTeX Info: Redefining \% on input line 610.
+ [30 <./fotos/Kafka/08.jpg> <./fotos/Kafka/09.jpg>]
+<./fotos/Kafka/11.jpg, id=411, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/11.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/11.jpg>
+Package pdftex.def Info: ./fotos/Kafka/11.jpg  used on input line 615.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+<./fotos/Kafka/12.jpg, id=412, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/12.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/12.jpg>
+Package pdftex.def Info: ./fotos/Kafka/12.jpg  used on input line 623.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 626.
+LaTeX Info: Redefining \% on input line 626.
+ [31 <./fotos/Kafka/10.jpg> <./fotos/Kafka/11.jpg>]
+<./fotos/Kafka/13.jpg, id=418, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/13.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/13.jpg>
+Package pdftex.def Info: ./fotos/Kafka/13.jpg  used on input line 631.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 641.
+LaTeX Info: Redefining \% on input line 641.
+
+[32 <./fotos/Kafka/12.jpg> <./fotos/Kafka/13.jpg>]
+LaTeX Info: Redefining \. on input line 666.
+LaTeX Info: Redefining \% on input line 666.
+ [33
+
+]
+<./fotos/Databricks/1 - Databricks (V).jpg, id=430, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/1 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/1 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/1 - Databricks (V).jpg  used on inp
+ut line 704.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 707.
+LaTeX Info: Redefining \% on input line 707.
+ [34
+
+]
+<./fotos/Databricks/2 - Databricks (V).jpg, id=435, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/2 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/2 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/2 - Databricks (V).jpg  used on inp
+ut line 712.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/Databricks/3 - Databricks.jpg, id=436, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/3 - Databricks.jpg Graphic file (type jpg)
+<use ./fotos/Databricks/3 - Databricks.jpg>
+Package pdftex.def Info: ./fotos/Databricks/3 - Databricks.jpg  used on input l
+ine 720.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 723.
+LaTeX Info: Redefining \% on input line 723.
+ [35 <./fotos/Databricks/1 - Databricks (V).jpg> <./fotos/Databricks/2 - Databr
+icks (V).jpg>]
+<./fotos/Databricks/4 - Databricks (V).jpg, id=441, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/4 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/4 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/4 - Databricks (V).jpg  used on inp
+ut line 730.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/Databricks/5 - Databricks (V).jpg, id=442, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/5 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/5 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/5 - Databricks (V).jpg  used on inp
+ut line 736.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 739.
+LaTeX Info: Redefining \% on input line 739.
+
+[36 <./fotos/Databricks/3 - Databricks.jpg> <./fotos/Databricks/4 - Databricks 
+(V).jpg>]
+<./fotos/Databricks/6 - Databricks (V).jpg, id=447, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/6 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/6 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/6 - Databricks (V).jpg  used on inp
+ut line 744.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/Databricks/7 - Databricks (V).jpg, id=448, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/7 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/7 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/7 - Databricks (V).jpg  used on inp
+ut line 752.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 755.
+LaTeX Info: Redefining \% on input line 755.
+ [37 <./fotos/Databricks/5 - Databricks (V).jpg> <./fotos/Databricks/6 - Databr
+icks (V).jpg>]
+<./fotos/Databricks/8 - Databricks (V).jpg, id=455, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/8 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/8 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/8 - Databricks (V).jpg  used on inp
+ut line 774.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 777.
+LaTeX Info: Redefining \% on input line 777.
+ [38 <./fotos/Databricks/7 - Databricks (V).jpg>]
+<./fotos/Databricks/9 - Databricks (V).jpg, id=460, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/9 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/9 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/9 - Databricks (V).jpg  used on inp
+ut line 784.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/Databricks/11 - Databricks (V).jpg, id=461, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/11 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/11 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/11 - Databricks (V).jpg  used on in
+put line 794.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 796.
+LaTeX Info: Redefining \% on input line 796.
+
+[39 <./fotos/Databricks/8 - Databricks (V).jpg> <./fotos/Databricks/9 - Databri
+cks (V).jpg>]
+<./fotos/Databricks/10 - Databricks.jpg, id=466, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/10 - Databricks.jpg Graphic file (type jpg)
+<use ./fotos/Databricks/10 - Databricks.jpg>
+Package pdftex.def Info: ./fotos/Databricks/10 - Databricks.jpg  used on input 
+line 800.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/Databricks/12 - Databricks.jpg, id=467, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/12 - Databricks.jpg Graphic file (type jpg)
+<use ./fotos/Databricks/12 - Databricks.jpg>
+Package pdftex.def Info: ./fotos/Databricks/12 - Databricks.jpg  used on input 
+line 808.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 811.
+LaTeX Info: Redefining \% on input line 811.
+ [40 <./fotos/Databricks/11 - Databricks (V).jpg> <./fotos/Databricks/10 - Data
+bricks.jpg>]
+<./fotos/Databricks/13 - Databricks.jpg, id=472, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/13 - Databricks.jpg Graphic file (type jpg)
+<use ./fotos/Databricks/13 - Databricks.jpg>
+Package pdftex.def Info: ./fotos/Databricks/13 - Databricks.jpg  used on input 
+line 814.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/Databricks/14 - Databricks.jpg, id=473, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/14 - Databricks.jpg Graphic file (type jpg)
+<use ./fotos/Databricks/14 - Databricks.jpg>
+Package pdftex.def Info: ./fotos/Databricks/14 - Databricks.jpg  used on input 
+line 822.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 825.
+LaTeX Info: Redefining \% on input line 825.
+ [41 <./fotos/Databricks/12 - Databricks.jpg> <./fotos/Databricks/13 - Databric
+ks.jpg>]
+<./fotos/Databricks/15 - Databricks.jpg, id=478, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/15 - Databricks.jpg Graphic file (type jpg)
+<use ./fotos/Databricks/15 - Databricks.jpg>
+Package pdftex.def Info: ./fotos/Databricks/15 - Databricks.jpg  used on input 
+line 830.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/Databricks/16 - Databricks (V).jpg, id=479, 1028.34187pt x 578.16pt>
+File: ./fotos/Databricks/16 - Databricks (V).jpg Graphic file (type jpg)
+<use ./fotos/Databricks/16 - Databricks (V).jpg>
+Package pdftex.def Info: ./fotos/Databricks/16 - Databricks (V).jpg  used on in
+put line 838.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 841.
+LaTeX Info: Redefining \% on input line 841.
+ [42 <./fotos/Databricks/14 - Databricks.jpg> <./fotos/Databricks/15 - Databric
+ks.jpg>]
+LaTeX Info: Redefining \. on input line 842.
+LaTeX Info: Redefining \% on input line 842.
+ [43 <./fotos/Databricks/16 - Databricks (V).jpg>]
+<./fotos/GoogleCloud/1 - GC (V).jpg, id=490, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/1 - GC (V).jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/1 - GC (V).jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/1 - GC (V).jpg  used on input line
+ 862.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/2 - GC.jpg, id=491, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/2 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/2 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/2 - GC.jpg  used on input line 870
+.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 873.
+LaTeX Info: Redefining \% on input line 873.
+ [44
+
+ <./fotos/GoogleCloud/1 - GC (V).jpg>]
+<./fotos/GoogleCloud/4 - GC.jpg, id=497, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/4 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/4 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/4 - GC.jpg  used on input line 878
+.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/5 - GC.jpg, id=498, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/5 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/5 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/5 - GC.jpg  used on input line 886
+.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 889.
+LaTeX Info: Redefining \% on input line 889.
+ [45 <./fotos/GoogleCloud/2 - GC.jpg> <./fotos/GoogleCloud/4 - GC.jpg>]
+<./fotos/GoogleCloud/6 - GC (V).jpg, id=503, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/6 - GC (V).jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/6 - GC (V).jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/6 - GC (V).jpg  used on input line
+ 894.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/7 - GC (V).jpg, id=504, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/7 - GC (V).jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/7 - GC (V).jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/7 - GC (V).jpg  used on input line
+ 902.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 905.
+LaTeX Info: Redefining \% on input line 905.
+ [46 <./fotos/GoogleCloud/5 - GC.jpg> <./fotos/GoogleCloud/6 - GC (V).jpg>]
+<./fotos/GoogleCloud/8 - GC (V).jpg, id=509, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/8 - GC (V).jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/8 - GC (V).jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/8 - GC (V).jpg  used on input line
+ 910.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 918.
+LaTeX Info: Redefining \% on input line 918.
+ [47 <./fotos/GoogleCloud/7 - GC (V).jpg> <./fotos/GoogleCloud/8 - GC (V).jpg>]
+<./fotos/GoogleCloud/9 - GC (V).jpg, id=514, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/9 - GC (V).jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/9 - GC (V).jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/9 - GC (V).jpg  used on input line
+ 922.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/10 - GC.jpg, id=515, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/10 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/10 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/10 - GC.jpg  used on input line 93
+2.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 937.
+LaTeX Info: Redefining \% on input line 937.
+ [48 <./fotos/GoogleCloud/9 - GC (V).jpg> <./fotos/GoogleCloud/10 - GC.jpg>]
+<./fotos/GoogleCloud/11 - GC.jpg, id=520, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/11 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/11 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/11 - GC.jpg  used on input line 94
+2.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/12 - GC.jpg, id=521, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/12 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/12 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/12 - GC.jpg  used on input line 94
+8.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/13 - GC.jpg, id=522, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/13 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/13 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/13 - GC.jpg  used on input line 95
+4.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 957.
+LaTeX Info: Redefining \% on input line 957.
+ [49 <./fotos/GoogleCloud/11 - GC.jpg> <./fotos/GoogleCloud/12 - GC.jpg>]
+<./fotos/GoogleCloud/14 - GC.jpg, id=528, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/14 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/14 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/14 - GC.jpg  used on input line 96
+0.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/15 - GC.jpg, id=529, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/15 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/15 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/15 - GC.jpg  used on input line 96
+6.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 969.
+LaTeX Info: Redefining \% on input line 969.
+ [50 <./fotos/GoogleCloud/13 - GC.jpg> <./fotos/GoogleCloud/14 - GC.jpg>]
+<./fotos/GoogleCloud/16 - GC.jpg, id=534, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/16 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/16 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/16 - GC.jpg  used on input line 97
+4.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+File: ./fotos/GoogleCloud/16 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/16 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/16 - GC.jpg  used on input line 98
+2.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 985.
+LaTeX Info: Redefining \% on input line 985.
+ [51 <./fotos/GoogleCloud/15 - GC.jpg> <./fotos/GoogleCloud/16 - GC.jpg>]
+<./fotos/GoogleCloud/21 - GC.jpg, id=539, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/21 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/21 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/21 - GC.jpg  used on input line 99
+6.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/22 - GC.jpg, id=540, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/22 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/22 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/22 - GC.jpg  used on input line 10
+04.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1006.
+LaTeX Info: Redefining \% on input line 1006.
+ [52 <./fotos/GoogleCloud/21 - GC.jpg>]
+<./fotos/GoogleCloud/23 - GC.jpg, id=545, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/23 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/23 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/23 - GC.jpg  used on input line 10
+12.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1021.
+LaTeX Info: Redefining \% on input line 1021.
+ [53 <./fotos/GoogleCloud/22 - GC.jpg> <./fotos/GoogleCloud/23 - GC.jpg>]
+<./fotos/GoogleCloud/24 - GC.jpg, id=550, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/24 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/24 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/24 - GC.jpg  used on input line 10
+26.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/25 - GC.jpg, id=551, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/25 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/25 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/25 - GC.jpg  used on input line 10
+32.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1039.
+LaTeX Info: Redefining \% on input line 1039.
+ [54 <./fotos/GoogleCloud/24 - GC.jpg> <./fotos/GoogleCloud/25 - GC.jpg>]
+<./fotos/GoogleCloud/26 - GC.jpg, id=556, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/26 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/26 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/26 - GC.jpg  used on input line 10
+42.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/27 - GC.jpg, id=557, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/27 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/27 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/27 - GC.jpg  used on input line 10
+50.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/28 - GC.jpg, id=558, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/28 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/28 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/28 - GC.jpg  used on input line 10
+58.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1061.
+LaTeX Info: Redefining \% on input line 1061.
+ [55 <./fotos/GoogleCloud/26 - GC.jpg> <./fotos/GoogleCloud/27 - GC.jpg>]
+<./fotos/GoogleCloud/29 - GC.jpg, id=564, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/29 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/29 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/29 - GC.jpg  used on input line 10
+66.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/30 - GC.jpg, id=565, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/30 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/30 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/30 - GC.jpg  used on input line 10
+74.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1077.
+LaTeX Info: Redefining \% on input line 1077.
+ [56 <./fotos/GoogleCloud/28 - GC.jpg> <./fotos/GoogleCloud/29 - GC.jpg>]
+<./fotos/GoogleCloud/31 - GC.jpg, id=570, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/31 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/31 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/31 - GC.jpg  used on input line 10
+82.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/32 - GC.jpg, id=571, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/32 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/32 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/32 - GC.jpg  used on input line 10
+90.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1093.
+LaTeX Info: Redefining \% on input line 1093.
+ [57 <./fotos/GoogleCloud/30 - GC.jpg> <./fotos/GoogleCloud/31 - GC.jpg>]
+<./fotos/GoogleCloud/33 - GC.jpg, id=576, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/33 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/33 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/33 - GC.jpg  used on input line 10
+98.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/34 - GC.jpg, id=577, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/34 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/34 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/34 - GC.jpg  used on input line 11
+06.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1109.
+LaTeX Info: Redefining \% on input line 1109.
+ [58 <./fotos/GoogleCloud/32 - GC.jpg> <./fotos/GoogleCloud/33 - GC.jpg>]
+<./fotos/GoogleCloud/35 - GC.jpg, id=582, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/35 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/35 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/35 - GC.jpg  used on input line 11
+14.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/36 - GC.jpg, id=583, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/36 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/36 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/36 - GC.jpg  used on input line 11
+22.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1125.
+LaTeX Info: Redefining \% on input line 1125.
+ [59 <./fotos/GoogleCloud/34 - GC.jpg> <./fotos/GoogleCloud/35 - GC.jpg>]
+<./fotos/GoogleCloud/37 - GC.jpg, id=588, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/37 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/37 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/37 - GC.jpg  used on input line 11
+30.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/38 - GC.jpg, id=589, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/38 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/38 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/38 - GC.jpg  used on input line 11
+38.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1141.
+LaTeX Info: Redefining \% on input line 1141.
+ [60 <./fotos/GoogleCloud/36 - GC.jpg> <./fotos/GoogleCloud/37 - GC.jpg>]
+<./fotos/GoogleCloud/39 - GC.jpg, id=594, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/39 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/39 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/39 - GC.jpg  used on input line 11
+48.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/40 - GC.jpg, id=595, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/40 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/40 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/40 - GC.jpg  used on input line 11
+56.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1159.
+LaTeX Info: Redefining \% on input line 1159.
+ [61 <./fotos/GoogleCloud/38 - GC.jpg> <./fotos/GoogleCloud/39 - GC.jpg>]
+<./fotos/GoogleCloud/42 - GC.jpg, id=601, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/42 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/42 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/42 - GC.jpg  used on input line 11
+66.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/41 - GC.jpg, id=602, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/41 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/41 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/41 - GC.jpg  used on input line 11
+74.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1177.
+LaTeX Info: Redefining \% on input line 1177.
+ [62 <./fotos/GoogleCloud/40 - GC.jpg> <./fotos/GoogleCloud/42 - GC.jpg>]
+<./fotos/GoogleCloud/43 - GC.jpg, id=607, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/43 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/43 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/43 - GC.jpg  used on input line 11
+82.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/44 - GC.jpg, id=608, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/44 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/44 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/44 - GC.jpg  used on input line 11
+88.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1191.
+LaTeX Info: Redefining \% on input line 1191.
+[63 <./fotos/GoogleCloud/41 - GC.jpg> <./fotos/GoogleCloud/43 - GC.jpg>]
+<./fotos/GoogleCloud/45 - GC.jpg, id=613, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/45 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/45 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/45 - GC.jpg  used on input line 11
+96.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/46 - GC.jpg, id=614, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/46 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/46 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/46 - GC.jpg  used on input line 12
+02.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1205.
+LaTeX Info: Redefining \% on input line 1205.
+
+[64 <./fotos/GoogleCloud/44 - GC.jpg> <./fotos/GoogleCloud/45 - GC.jpg>]
+<./fotos/GoogleCloud/47 - GC.jpg, id=619, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/47 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/47 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/47 - GC.jpg  used on input line 12
+10.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+<./fotos/GoogleCloud/48 - GC.jpg, id=620, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/48 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/48 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/48 - GC.jpg  used on input line 12
+18.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+LaTeX Info: Redefining \. on input line 1221.
+LaTeX Info: Redefining \% on input line 1221.
+
+[65 <./fotos/GoogleCloud/46 - GC.jpg> <./fotos/GoogleCloud/47 - GC.jpg>]
+<./fotos/GoogleCloud/49 - GC.jpg, id=625, 1028.34187pt x 578.16pt>
+File: ./fotos/GoogleCloud/49 - GC.jpg Graphic file (type jpg)
+<use ./fotos/GoogleCloud/49 - GC.jpg>
+Package pdftex.def Info: ./fotos/GoogleCloud/49 - GC.jpg  used on input line 12
+26.
+(pdftex.def)             Requested size: 500.0pt x 281.11302pt.
+
+Overfull \hbox (4.82385pt too wide) in paragraph at lines 1230--1231
+[]\OT1/cmr/m/n/10 Como pue-des apre-ciar, la ru-ta pa-ra ac-ce-der a los da-tos
+ al-ma-ce-na-dos en Sto-ra-ge tie-nen la ru-ta: gs://bosonit/data/dataset.csv
+ []
+
+LaTeX Info: Redefining \. on input line 1237.
+LaTeX Info: Redefining \% on input line 1237.
+[66 <./fotos/GoogleCloud/48 - GC.jpg> <./fotos/GoogleCloud/49 - GC.jpg>]
+<./fotos/eleccioncompresion.jpg, id=630, 782.17218pt x 233.37187pt>
+File: ./fotos/eleccioncompresion.jpg Graphic file (type jpg)
+<use ./fotos/eleccioncompresion.jpg>
+Package pdftex.def Info: ./fotos/eleccioncompresion.jpg  used on input line 124
+6.
+(pdftex.def)             Requested size: 500.0pt x 149.18298pt.
+LaTeX Info: Redefining \. on input line 1262.
+LaTeX Info: Redefining \% on input line 1262.
+
+[67 <./fotos/eleccioncompresion.jpg>]
+LaTeX Info: Redefining \. on input line 1297.
+LaTeX Info: Redefining \% on input line 1297.
+ [68
+
+] (Spark.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+Package rerunfilecheck Info: File `Spark.out' has not changed.
+(rerunfilecheck)             Checksum: 1F0CCDC9822572C3C29D0ED6AF16A8DF;6568.
+ ) 
+Here is how much of TeX's memory you used:
+ 12848 strings out of 479334
+ 195195 string characters out of 2866955
+ 819724 words of memory out of 3000000
+ 29850 multiletter control sequences out of 15000+200000
+ 411950 words of font info for 59 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,13n,74p,743b,1278s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Gr4vi7y\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+rm0800.pk> <C:\Users\Gr4vi7y\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy
+10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Spark.pdf (68 pages, 17817164 bytes).
+PDF statistics:
+ 722 PDF objects out of 1000 (max. 8388607)
+ 138 named destinations out of 1000 (max. 500000)
+ 870 words of extra memory for PDF output out of 10000 (max. 10000000)
+
