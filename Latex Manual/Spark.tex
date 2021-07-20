@@ -87,14 +87,14 @@ Si vamos a la web oficial de Oracle para la descarga de Java (\href{https://www.
 \end{center}
 
 
-Como podemos ver en las siguientes imágenes, en el segundo párrafo de la pagina principal, donde empieza con Download, haremos click  en \textit{jdk.java.net/15}. Esto nos llevara a la pagina de descargas, donde veremos versiones para los distintos sistemas operativos. En nuestro caso seleccionaremos la version de Windows/x64.
+Como podemos ver en las siguientes imágenes, en el segundo párrafo de la pagina principal, donde empieza con Download, haremos click  en \textit{jdk.java.net/16} y esto nos llevara a la pagina de descargas. Una vez aquí, en la columna de la izquierda tenemos que seleccionar Java SE 15 ya que nuestra instalación no funcionará con las versiones 16 o posteriores. En nuestro caso seleccionaremos la version de Windows/x64.
 
 \begin{figure}[h]
 \centering
 \subfigure[Pagina principal]{
-\includegraphics[width=0.45\textwidth]{./fotos/introduccion/24 - openjdk (V).jpg}}
+\includegraphics[width=0.45\textwidth]{./fotos/introduccion/24 - openjdk (V)b.jpg}}
 \subfigure[Pagina de descargas]{
-\includegraphics[width=0.45\textwidth]{./fotos/introduccion/25 - openjdk (V).jpg}}
+\includegraphics[width=0.45\textwidth]{./fotos/introduccion/25 - openjdk (V)b.jpg}}
 \end{figure}
  
 \clearpage
@@ -347,13 +347,15 @@ Una vez descargado el \href{https://github.com/steveloughran/winutils}{repositor
 
 \subsubsection{Variables de entorno}
 
-En concreto vamos a crear tres variables de entorno y modificar la variable Path.
+En concreto vamos a crear cuatro variables de entorno y modificar la variable Path.
 
 $\bullet$ SPARK\_HOME: Ruta al directorio donde hemos descomprimido el paquete de Apache Spark. 
 
 $\bullet$ HADOOP\_HOME: Apunta al directorio donde hemos copiado la carpeta con el archivo Winutils. 
 
 $\bullet$ JAVA\_HOME: Es el directorio donde se ha instalado el JDK de Java
+
+$\bullet$ PYTHON\_HOME: Es el directorio donde se ha instalado Anaconda3 y se encuentra el ejecutable python.exe. En nuestro caso la ruta ha sido \textit{C:/Users/usuario/Anaconda3/python.exe}
 
 $\bullet$ PATH: Aquí añadiremos dos nuevas rutas. El directorio bin de la carpeta de Apache Spark y el directorio bin de la carpeta JDK de Java. 
 
