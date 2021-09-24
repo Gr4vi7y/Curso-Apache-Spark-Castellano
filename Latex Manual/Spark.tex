@@ -286,6 +286,22 @@ Haremos click derecho y ejecutaremos como administrador. Esto hará que salga un
 
 NOTA: Si no ejecutamos la consola de Anaconda como administrador, al intentar instalar cualquier librería o paquete extra de python, nos dará error sin especificarnos la razón. Por eso es buena practica acostumbrarse a hacerlo siempre como administrador.
 
+Podemos configurar que por defecto la consola de Anaconda se ejecute como administrador haciendo click derecho sobre el icono de \textit{Anaconda Promt} y pulsando en Más y después en Abrir ubicación de archivo.
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=450pt]{./fotos/introduccion/2b - anaconda.jpg}
+\end{center}
+\end{figure}
+
+En esta carpeta hacemos click derecho sobre el icono de acceso directo de \textit{Anaconda Prompt (Anaconda3)} y pulsamos en Propiedades. En la ventana emergente, en la pestaña Acceso directo pulsamos en Opciones avanzadas y por último dejamos seleccionada la opción Ejecutar como administrador.
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=450pt]{./fotos/introduccion/3b - anaconda (V).jpg}
+\end{center}
+\end{figure}
+
 Al ejecutar esta consola veremos que se trata de una similar a la de windows, aunque con la diferencia de que se trata de la propia de Anaconda. Ahora, para asegurarnos de que la instalación de Python ha sido correcta, escribiremos \textbf{python --version}
 y si todo ha ido bien obtendremos un mensaje con la version de Python instalado como en la siguiente imagen: 
 
@@ -294,6 +310,8 @@ y si todo ha ido bien obtendremos un mensaje con la version de Python instalado 
 \includegraphics[width=450pt]{./fotos/introduccion/3 - anaconda (V).jpg}
 \end{center}
 \end{figure}
+
+
 
 \subsection{Apache Spark}
 
@@ -444,6 +462,19 @@ Y podemos verlo en funcionamiento:
 \includegraphics[width=450pt]{./fotos/introduccion/23 - Scala en notebook funcionando (V).jpg}
 \end{center}
 \end{figure}
+
+NOTA: Por comodidad, podemos definir cuál el directorio por defecto que utilizará Jupyter Notebook cuando lo abramos. En esta carpeta es donde se guardarán y leerán los archivos que utilicemos salvo que indiquemos otra ruta. Para ello, nos dirigimos al directorio \textit{C:/Users/usuario/.jupyter} y abrimos el fichero 
+\textit{jupyter\_notebook\_config.py} con el bloc de notas.
+
+Una vez en el bloc de notas buscamos la siguiente línea:
+
+\textit{c.NotebookApp.notebook\_dir = ''}
+
+Por defecto viene comentada, por lo que la descomentamos quitando la almohadilla del principio de la línea. Por último, escribimos el directorio que queremos tener por defecto y guardamos el archivo. Por ejemplo:
+
+\textit{c.NotebookApp.notebook\_dir = 'C:/Users/usuario/Documents/SparkProjectsFolder'}
+
+La próxima vez que abramos Jupyter ya tendremos por defecto la carpeta indicada.
 
 \subsubsection{R desde Jupyter Notebook}
 
