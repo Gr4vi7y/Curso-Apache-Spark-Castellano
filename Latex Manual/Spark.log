@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.7.20)  20 JUL 2021 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.7.20)  24 SEP 2021 12:08
 entering extended mode
 **./Spark.tex
 (Spark.tex
@@ -737,97 +737,114 @@ LaTeX Info: Redefining \% on input line 286.
 
  <./fotos/introduccion/0 - Instalacion Anaconda.jpg> <./fotos/introduccion/1 - 
 anaconda (V).jpg>]
-<./fotos/introduccion/3 - anaconda (V).jpg, id=312, 1028.34187pt x 578.16pt>
+<./fotos/introduccion/2b - anaconda.jpg, id=312, 441.14813pt x 185.19188pt>
+File: ./fotos/introduccion/2b - anaconda.jpg Graphic file (type jpg)
+<use ./fotos/introduccion/2b - anaconda.jpg>
+Package pdftex.def Info: ./fotos/introduccion/2b - anaconda.jpg  used on input 
+line 293.
+(pdftex.def)             Requested size: 450.0pt x 188.9158pt.
+<./fotos/introduccion/3b - anaconda (V).jpg, id=313, 564.30824pt x 429.40425pt>
+
+File: ./fotos/introduccion/3b - anaconda (V).jpg Graphic file (type jpg)
+<use ./fotos/introduccion/3b - anaconda (V).jpg>
+Package pdftex.def Info: ./fotos/introduccion/3b - anaconda (V).jpg  used on in
+put line 301.
+(pdftex.def)             Requested size: 450.0pt x 342.43619pt.
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
+ [16 <./fotos/introduccion/2 - anaconda.jpg> <./fotos/introduccion/2b - anacond
+a.jpg>]
+<./fotos/introduccion/3 - anaconda (V).jpg, id=318, 1028.34187pt x 578.16pt>
 File: ./fotos/introduccion/3 - anaconda (V).jpg Graphic file (type jpg)
 <use ./fotos/introduccion/3 - anaconda (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/3 - anaconda (V).jpg  used on inp
-ut line 294.
+ut line 310.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 304.
-LaTeX Info: Redefining \% on input line 304.
- [16 <./fotos/introduccion/2 - anaconda.jpg> <./fotos/introduccion/3 - anaconda
- (V).jpg>]
-<./fotos/introduccion/5 - Spark 2 (V).jpg, id=318, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 322.
+LaTeX Info: Redefining \% on input line 322.
+ [17 <./fotos/introduccion/3b - anaconda (V).jpg> <./fotos/introduccion/3 - ana
+conda (V).jpg>]
+<./fotos/introduccion/5 - Spark 2 (V).jpg, id=324, 1028.34187pt x 578.16pt>
 File: ./fotos/introduccion/5 - Spark 2 (V).jpg Graphic file (type jpg)
 <use ./fotos/introduccion/5 - Spark 2 (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/5 - Spark 2 (V).jpg  used on inpu
-t line 310.
+t line 328.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/introduccion/4 - Spark (V).jpg, id=319, 1028.34187pt x 578.16pt>
+<./fotos/introduccion/4 - Spark (V).jpg, id=325, 1028.34187pt x 578.16pt>
 File: ./fotos/introduccion/4 - Spark (V).jpg Graphic file (type jpg)
 <use ./fotos/introduccion/4 - Spark (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/4 - Spark (V).jpg  used on input 
-line 318.
+line 336.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 321.
-LaTeX Info: Redefining \% on input line 321.
- [17 <./fotos/introduccion/5 - Spark 2 (V).jpg>]
-<./fotos/introduccion/16 - Spark.jpg, id=325, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 339.
+LaTeX Info: Redefining \% on input line 339.
+[18 <./fotos/introduccion/5 - Spark 2 (V).jpg>]
+<./fotos/introduccion/16 - Spark.jpg, id=331, 1028.34187pt x 578.16pt>
 File: ./fotos/introduccion/16 - Spark.jpg Graphic file (type jpg)
 <use ./fotos/introduccion/16 - Spark.jpg>
 Package pdftex.def Info: ./fotos/introduccion/16 - Spark.jpg  used on input lin
-e 332.
+e 350.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 337.
-LaTeX Info: Redefining \% on input line 337.
- [18 <./fotos/introduccion/4 - Spark (V).jpg> <./fotos/introduccion/16 - Spark.
+LaTeX Info: Redefining \. on input line 355.
+LaTeX Info: Redefining \% on input line 355.
+ [19 <./fotos/introduccion/4 - Spark (V).jpg> <./fotos/introduccion/16 - Spark.
 jpg>]
-<./fotos/introduccion/17 - Hadoop.jpg, id=332, 1028.34187pt x 578.16pt>
+<./fotos/introduccion/17 - Hadoop.jpg, id=339, 1028.34187pt x 578.16pt>
 File: ./fotos/introduccion/17 - Hadoop.jpg Graphic file (type jpg)
 <use ./fotos/introduccion/17 - Hadoop.jpg>
 Package pdftex.def Info: ./fotos/introduccion/17 - Hadoop.jpg  used on input li
-ne 344.
+ne 362.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/introduccion/18 - Pyspark funcionando (V).jpg, id=333, 1028.34187pt x 
+<./fotos/introduccion/18 - Pyspark funcionando (V).jpg, id=340, 1028.34187pt x 
 578.16pt>
 File: ./fotos/introduccion/18 - Pyspark funcionando (V).jpg Graphic file (type 
 jpg)
 <use ./fotos/introduccion/18 - Pyspark funcionando (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/18 - Pyspark funcionando (V).jpg 
- used on input line 368.
+ used on input line 386.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 371.
-LaTeX Info: Redefining \% on input line 371.
- [19 <./fotos/introduccion/17 - Hadoop.jpg>]
-<./fotos/introduccion/18 - Scala funcionando (V).jpg, id=339, 1028.34187pt x 57
+LaTeX Info: Redefining \. on input line 389.
+LaTeX Info: Redefining \% on input line 389.
+ [20 <./fotos/introduccion/17 - Hadoop.jpg>]
+<./fotos/introduccion/18 - Scala funcionando (V).jpg, id=345, 1028.34187pt x 57
 8.16pt>
 File: ./fotos/introduccion/18 - Scala funcionando (V).jpg Graphic file (type jp
 g)
 <use ./fotos/introduccion/18 - Scala funcionando (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/18 - Scala funcionando (V).jpg  u
-sed on input line 374.
+sed on input line 392.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/introduccion/19 - notebook desde comandos (V).jpg, id=340, 1028.34187p
+<./fotos/introduccion/19 - notebook desde comandos (V).jpg, id=346, 1028.34187p
 t x 578.16pt>
 File: ./fotos/introduccion/19 - notebook desde comandos (V).jpg Graphic file (t
 ype jpg)
 <use ./fotos/introduccion/19 - notebook desde comandos (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/19 - notebook desde comandos (V).
-jpg  used on input line 386.
+jpg  used on input line 404.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 388.
-LaTeX Info: Redefining \% on input line 388.
- [20 <./fotos/introduccion/18 - Pyspark funcionando (V).jpg> <./fotos/introducc
+LaTeX Info: Redefining \. on input line 406.
+LaTeX Info: Redefining \% on input line 406.
+ [21 <./fotos/introduccion/18 - Pyspark funcionando (V).jpg> <./fotos/introducc
 ion/18 - Scala funcionando (V).jpg>]
-<./fotos/introduccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg, id=34
-5, 1028.34187pt x 578.16pt>
+<./fotos/introduccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg, id=35
+1, 1028.34187pt x 578.16pt>
 File: ./fotos/introduccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg G
 raphic file (type jpg)
 <use ./fotos/introduccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/21 - Abriendo notebook al ejecuta
-r pyspark (V).jpg  used on input line 394.
+r pyspark (V).jpg  used on input line 412.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg, id=346, 1028.34
+<./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg, id=352, 1028.34
 187pt x 578.16pt>
 File: ./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg Graphic fil
 e (type jpg)
 <use ./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/20 - instalando pyspark anaconda 
-(V).jpg  used on input line 402.
+(V).jpg  used on input line 420.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 405.
-LaTeX Info: Redefining \% on input line 405.
- [21 <./fotos/introduccion/19 - notebook desde comandos (V).jpg> <./fotos/intro
+LaTeX Info: Redefining \. on input line 423.
+LaTeX Info: Redefining \% on input line 423.
+ [22 <./fotos/introduccion/19 - notebook desde comandos (V).jpg> <./fotos/intro
 duccion/21 - Abriendo notebook al ejecutar pyspark (V).jpg>]
 (C:\Users\pablo.oliva\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1
 .sty
@@ -837,676 +854,679 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 .sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-<./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg, id=351, 10
+<./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg, id=357, 10
 28.34187pt x 578.16pt>
 File: ./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg Graphi
 c file (type jpg)
 <use ./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/22 - Scala desde notebook de anac
-onda (V).jpg  used on input line 436.
+onda (V).jpg  used on input line 454.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 439.
-LaTeX Info: Redefining \% on input line 439.
- [22 <./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg>]
-<./fotos/introduccion/23 - Scala en notebook funcionando (V).jpg, id=363, 1028.
+LaTeX Info: Redefining \. on input line 457.
+LaTeX Info: Redefining \% on input line 457.
+ [23 <./fotos/introduccion/20 - instalando pyspark anaconda (V).jpg>]
+<./fotos/introduccion/23 - Scala en notebook funcionando (V).jpg, id=369, 1028.
 34187pt x 578.16pt>
 File: ./fotos/introduccion/23 - Scala en notebook funcionando (V).jpg Graphic f
 ile (type jpg)
 <use ./fotos/introduccion/23 - Scala en notebook funcionando (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/23 - Scala en notebook funcionand
-o (V).jpg  used on input line 444.
+o (V).jpg  used on input line 462.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 457.
-LaTeX Info: Redefining \% on input line 457.
+LaTeX Info: Redefining \. on input line 484.
+LaTeX Info: Redefining \% on input line 484.
 
-[23 <./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg> <./fot
+[24 <./fotos/introduccion/22 - Scala desde notebook de anaconda (V).jpg> <./fot
 os/introduccion/23 - Scala en notebook funcionando (V).jpg>]
-<./fotos/Kafka/01 (V).jpg, id=371, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 488.
+LaTeX Info: Redefining \% on input line 488.
+ [25]
+<./fotos/Kafka/01 (V).jpg, id=382, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/01 (V).jpg Graphic file (type jpg)
 <use ./fotos/Kafka/01 (V).jpg>
-Package pdftex.def Info: ./fotos/Kafka/01 (V).jpg  used on input line 473.
+Package pdftex.def Info: ./fotos/Kafka/01 (V).jpg  used on input line 504.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-<./fotos/Kafka/02 (V).jpg, id=372, 1028.34187pt x 578.16pt>
+<./fotos/Kafka/02 (V).jpg, id=383, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/02 (V).jpg Graphic file (type jpg)
 <use ./fotos/Kafka/02 (V).jpg>
-Package pdftex.def Info: ./fotos/Kafka/02 (V).jpg  used on input line 481.
+Package pdftex.def Info: ./fotos/Kafka/02 (V).jpg  used on input line 512.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 489.
-LaTeX Info: Redefining \% on input line 489.
- [24
+LaTeX Info: Redefining \. on input line 520.
+LaTeX Info: Redefining \% on input line 520.
+ [26
 
  <./fotos/Kafka/01 (V).jpg> <./fotos/Kafka/02 (V).jpg>]
-<./fotos/Kafka/03 (V).jpg, id=377, 1028.34187pt x 548.0475pt>
+<./fotos/Kafka/03 (V).jpg, id=388, 1028.34187pt x 548.0475pt>
 File: ./fotos/Kafka/03 (V).jpg Graphic file (type jpg)
 <use ./fotos/Kafka/03 (V).jpg>
-Package pdftex.def Info: ./fotos/Kafka/03 (V).jpg  used on input line 495.
+Package pdftex.def Info: ./fotos/Kafka/03 (V).jpg  used on input line 526.
 (pdftex.def)             Requested size: 450.0pt x 239.82872pt.
 File: ./fotos/introduccion/7 - Java.jpg Graphic file (type jpg)
 <use ./fotos/introduccion/7 - Java.jpg>
 Package pdftex.def Info: ./fotos/introduccion/7 - Java.jpg  used on input line 
-505.
+536.
 (pdftex.def)             Requested size: 425.0pt x 238.94386pt.
-LaTeX Info: Redefining \. on input line 509.
-LaTeX Info: Redefining \% on input line 509.
- [25 <./fotos/Kafka/03 (V).jpg>]
+LaTeX Info: Redefining \. on input line 540.
+LaTeX Info: Redefining \% on input line 540.
+ [27 <./fotos/Kafka/03 (V).jpg>]
 File: ./fotos/introduccion/8 - Java (V).jpg Graphic file (type jpg)
 <use ./fotos/introduccion/8 - Java (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/8 - Java (V).jpg  used on input l
-ine 515.
+ine 546.
 (pdftex.def)             Requested size: 425.0pt x 238.94386pt.
 File: ./fotos/introduccion/9 - Java (V).jpg Graphic file (type jpg)
 <use ./fotos/introduccion/9 - Java (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/9 - Java (V).jpg  used on input l
-ine 525.
+ine 556.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 529.
-LaTeX Info: Redefining \% on input line 529.
+LaTeX Info: Redefining \. on input line 560.
+LaTeX Info: Redefining \% on input line 560.
 
-[26
+[28
 
 ]
-<./fotos/Kafka/04.jpg, id=387, 1028.34187pt x 578.16pt>
+<./fotos/Kafka/04.jpg, id=397, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/04.jpg Graphic file (type jpg)
 <use ./fotos/Kafka/04.jpg>
-Package pdftex.def Info: ./fotos/Kafka/04.jpg  used on input line 535.
+Package pdftex.def Info: ./fotos/Kafka/04.jpg  used on input line 566.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
 File: ./fotos/introduccion/12 - Java (V).jpg Graphic file (type jpg)
 <use ./fotos/introduccion/12 - Java (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/12 - Java (V).jpg  used on input 
-line 547.
+line 578.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
 File: ./fotos/introduccion/13 - Java (V).jpg Graphic file (type jpg)
 <use ./fotos/introduccion/13 - Java (V).jpg>
 Package pdftex.def Info: ./fotos/introduccion/13 - Java (V).jpg  used on input 
-line 555.
+line 586.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 558.
-LaTeX Info: Redefining \% on input line 558.
- [27
+LaTeX Info: Redefining \. on input line 589.
+LaTeX Info: Redefining \% on input line 589.
+ [29
 
  <./fotos/Kafka/04.jpg>]
-<./fotos/Kafka/05 (V).jpg, id=392, 1028.34187pt x 578.16pt>
+<./fotos/Kafka/05 (V).jpg, id=402, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/05 (V).jpg Graphic file (type jpg)
 <use ./fotos/Kafka/05 (V).jpg>
-Package pdftex.def Info: ./fotos/Kafka/05 (V).jpg  used on input line 563.
+Package pdftex.def Info: ./fotos/Kafka/05 (V).jpg  used on input line 594.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
- [28 <./fotos/Kafka/05 (V).jpg>]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
-73.
+LaTeX Info: Redefining \. on input line 600.
+LaTeX Info: Redefining \% on input line 600.
+ [30 <./fotos/Kafka/05 (V).jpg>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
+04.
 
 (C:\Users\pablo.oliva\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 573.
-<./fotos/Kafka/06.jpg, id=397, 1028.34187pt x 578.16pt>
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 604.
+<./fotos/Kafka/06.jpg, id=407, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/06.jpg Graphic file (type jpg)
 <use ./fotos/Kafka/06.jpg>
-Package pdftex.def Info: ./fotos/Kafka/06.jpg  used on input line 577.
+Package pdftex.def Info: ./fotos/Kafka/06.jpg  used on input line 608.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-<./fotos/Kafka/07.jpg, id=398, 1028.34187pt x 578.16pt>
+<./fotos/Kafka/07.jpg, id=408, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/07.jpg Graphic file (type jpg)
 <use ./fotos/Kafka/07.jpg>
-Package pdftex.def Info: ./fotos/Kafka/07.jpg  used on input line 585.
+Package pdftex.def Info: ./fotos/Kafka/07.jpg  used on input line 616.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
 
-Overfull \hbox (41.27036pt too wide) in paragraph at lines 589--590
+Overfull \hbox (41.27036pt too wide) in paragraph at lines 620--621
 \OT1/cmr/m/n/10 cia-li-za-do Apa-che Zoo-kee-per. Aho-ra eje-cu-ta-re-mos Kaf-k
 a Bro-ke-r/-Ser-ver. En es-te ca-so es-cri-bi-re-mos \OT1/cmr/bx/n/10 C:\OMS/cm
 sy/b/n/10 n\OT1/cmr/bx/n/10 Kafka\OMS/cmsy/b/n/10 n\OT1/cmr/bx/n/10 bin\OMS/cms
 y/b/n/10 n\OT1/cmr/bx/n/10 windows\OMS/cmsy/b/n/10 n\OT1/cmr/bx/n/10 kafka-
  []
 
-<./fotos/Kafka/08.jpg, id=399, 1028.34187pt x 578.16pt>
+<./fotos/Kafka/08.jpg, id=409, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/08.jpg Graphic file (type jpg)
 <use ./fotos/Kafka/08.jpg>
-Package pdftex.def Info: ./fotos/Kafka/08.jpg  used on input line 593.
+Package pdftex.def Info: ./fotos/Kafka/08.jpg  used on input line 624.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 596.
-LaTeX Info: Redefining \% on input line 596.
-[29
+LaTeX Info: Redefining \. on input line 627.
+LaTeX Info: Redefining \% on input line 627.
+[31
 
  <./fotos/Kafka/06.jpg> <./fotos/Kafka/07.jpg>]
-<./fotos/Kafka/09.jpg, id=405, 1028.34187pt x 578.16pt>
+<./fotos/Kafka/09.jpg, id=416, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/09.jpg Graphic file (type jpg)
 <use ./fotos/Kafka/09.jpg>
-Package pdftex.def Info: ./fotos/Kafka/09.jpg  used on input line 601.
+Package pdftex.def Info: ./fotos/Kafka/09.jpg  used on input line 632.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-<./fotos/Kafka/10.jpg, id=406, 1028.34187pt x 578.16pt>
+<./fotos/Kafka/10.jpg, id=417, 1028.34187pt x 578.16pt>
 File: ./fotos/Kafka/10.jpg Graphic file (type jpg)
 <use ./fotos/Kafka/10.jpg>
-Package pdftex.def Info: ./fotos/Kafka/10.jpg  used on input line 609.
-(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 612.
-LaTeX Info: Redefining \% on input line 612.
- [30 <./fotos/Kafka/08.jpg> <./fotos/Kafka/09.jpg>]
-<./fotos/Kafka/11.jpg, id=411, 1028.34187pt x 578.16pt>
-File: ./fotos/Kafka/11.jpg Graphic file (type jpg)
-<use ./fotos/Kafka/11.jpg>
-Package pdftex.def Info: ./fotos/Kafka/11.jpg  used on input line 617.
-(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-<./fotos/Kafka/12.jpg, id=412, 1028.34187pt x 578.16pt>
-File: ./fotos/Kafka/12.jpg Graphic file (type jpg)
-<use ./fotos/Kafka/12.jpg>
-Package pdftex.def Info: ./fotos/Kafka/12.jpg  used on input line 625.
-(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
-LaTeX Info: Redefining \. on input line 628.
-LaTeX Info: Redefining \% on input line 628.
- [31 <./fotos/Kafka/10.jpg> <./fotos/Kafka/11.jpg>]
-<./fotos/Kafka/13.jpg, id=418, 1028.34187pt x 578.16pt>
-File: ./fotos/Kafka/13.jpg Graphic file (type jpg)
-<use ./fotos/Kafka/13.jpg>
-Package pdftex.def Info: ./fotos/Kafka/13.jpg  used on input line 633.
+Package pdftex.def Info: ./fotos/Kafka/10.jpg  used on input line 640.
 (pdftex.def)             Requested size: 450.0pt x 253.00613pt.
 LaTeX Info: Redefining \. on input line 643.
 LaTeX Info: Redefining \% on input line 643.
+ [32 <./fotos/Kafka/08.jpg> <./fotos/Kafka/09.jpg>]
+<./fotos/Kafka/11.jpg, id=422, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/11.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/11.jpg>
+Package pdftex.def Info: ./fotos/Kafka/11.jpg  used on input line 648.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+<./fotos/Kafka/12.jpg, id=423, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/12.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/12.jpg>
+Package pdftex.def Info: ./fotos/Kafka/12.jpg  used on input line 656.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 659.
+LaTeX Info: Redefining \% on input line 659.
+ [33 <./fotos/Kafka/10.jpg> <./fotos/Kafka/11.jpg>]
+<./fotos/Kafka/13.jpg, id=428, 1028.34187pt x 578.16pt>
+File: ./fotos/Kafka/13.jpg Graphic file (type jpg)
+<use ./fotos/Kafka/13.jpg>
+Package pdftex.def Info: ./fotos/Kafka/13.jpg  used on input line 664.
+(pdftex.def)             Requested size: 450.0pt x 253.00613pt.
+LaTeX Info: Redefining \. on input line 674.
+LaTeX Info: Redefining \% on input line 674.
 
-[32 <./fotos/Kafka/12.jpg> <./fotos/Kafka/13.jpg>]
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
- [33
+[34 <./fotos/Kafka/12.jpg> <./fotos/Kafka/13.jpg>]
+LaTeX Info: Redefining \. on input line 699.
+LaTeX Info: Redefining \% on input line 699.
+ [35
 
 ]
-<./fotos/Databricks/1 - Databricks (V).jpg, id=430, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/1 - Databricks (V).jpg, id=440, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/1 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/1 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/1 - Databricks (V).jpg  used on inp
-ut line 706.
+ut line 737.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 709.
-LaTeX Info: Redefining \% on input line 709.
- [34
+LaTeX Info: Redefining \. on input line 740.
+LaTeX Info: Redefining \% on input line 740.
+ [36
 
 ]
-<./fotos/Databricks/2 - Databricks (V).jpg, id=435, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/2 - Databricks (V).jpg, id=445, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/2 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/2 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/2 - Databricks (V).jpg  used on inp
-ut line 714.
+ut line 745.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/Databricks/3 - Databricks.jpg, id=436, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/3 - Databricks.jpg, id=446, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/3 - Databricks.jpg Graphic file (type jpg)
 <use ./fotos/Databricks/3 - Databricks.jpg>
 Package pdftex.def Info: ./fotos/Databricks/3 - Databricks.jpg  used on input l
-ine 722.
+ine 753.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 725.
-LaTeX Info: Redefining \% on input line 725.
- [35 <./fotos/Databricks/1 - Databricks (V).jpg> <./fotos/Databricks/2 - Databr
+LaTeX Info: Redefining \. on input line 756.
+LaTeX Info: Redefining \% on input line 756.
+ [37 <./fotos/Databricks/1 - Databricks (V).jpg> <./fotos/Databricks/2 - Databr
 icks (V).jpg>]
-<./fotos/Databricks/4 - Databricks (V).jpg, id=441, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/4 - Databricks (V).jpg, id=452, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/4 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/4 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/4 - Databricks (V).jpg  used on inp
-ut line 732.
+ut line 763.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/Databricks/5 - Databricks (V).jpg, id=442, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/5 - Databricks (V).jpg, id=453, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/5 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/5 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/5 - Databricks (V).jpg  used on inp
-ut line 738.
+ut line 769.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 741.
-LaTeX Info: Redefining \% on input line 741.
+LaTeX Info: Redefining \. on input line 772.
+LaTeX Info: Redefining \% on input line 772.
 
-[36 <./fotos/Databricks/3 - Databricks.jpg> <./fotos/Databricks/4 - Databricks 
+[38 <./fotos/Databricks/3 - Databricks.jpg> <./fotos/Databricks/4 - Databricks 
 (V).jpg>]
-<./fotos/Databricks/6 - Databricks (V).jpg, id=447, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/6 - Databricks (V).jpg, id=458, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/6 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/6 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/6 - Databricks (V).jpg  used on inp
-ut line 746.
+ut line 777.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/Databricks/7 - Databricks (V).jpg, id=448, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/7 - Databricks (V).jpg, id=459, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/7 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/7 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/7 - Databricks (V).jpg  used on inp
-ut line 754.
+ut line 785.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 757.
-LaTeX Info: Redefining \% on input line 757.
- [37 <./fotos/Databricks/5 - Databricks (V).jpg> <./fotos/Databricks/6 - Databr
+LaTeX Info: Redefining \. on input line 788.
+LaTeX Info: Redefining \% on input line 788.
+ [39 <./fotos/Databricks/5 - Databricks (V).jpg> <./fotos/Databricks/6 - Databr
 icks (V).jpg>]
-<./fotos/Databricks/8 - Databricks (V).jpg, id=455, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/8 - Databricks (V).jpg, id=465, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/8 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/8 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/8 - Databricks (V).jpg  used on inp
-ut line 776.
+ut line 807.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 779.
-LaTeX Info: Redefining \% on input line 779.
- [38 <./fotos/Databricks/7 - Databricks (V).jpg>]
-<./fotos/Databricks/9 - Databricks (V).jpg, id=460, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 810.
+LaTeX Info: Redefining \% on input line 810.
+ [40 <./fotos/Databricks/7 - Databricks (V).jpg>]
+<./fotos/Databricks/9 - Databricks (V).jpg, id=470, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/9 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/9 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/9 - Databricks (V).jpg  used on inp
-ut line 786.
+ut line 817.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/Databricks/11 - Databricks (V).jpg, id=461, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/11 - Databricks (V).jpg, id=471, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/11 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/11 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/11 - Databricks (V).jpg  used on in
-put line 796.
+put line 827.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 798.
-LaTeX Info: Redefining \% on input line 798.
+LaTeX Info: Redefining \. on input line 829.
+LaTeX Info: Redefining \% on input line 829.
 
-[39 <./fotos/Databricks/8 - Databricks (V).jpg> <./fotos/Databricks/9 - Databri
+[41 <./fotos/Databricks/8 - Databricks (V).jpg> <./fotos/Databricks/9 - Databri
 cks (V).jpg>]
-<./fotos/Databricks/10 - Databricks.jpg, id=466, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/10 - Databricks.jpg, id=476, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/10 - Databricks.jpg Graphic file (type jpg)
 <use ./fotos/Databricks/10 - Databricks.jpg>
 Package pdftex.def Info: ./fotos/Databricks/10 - Databricks.jpg  used on input 
-line 802.
+line 833.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/Databricks/12 - Databricks.jpg, id=467, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/12 - Databricks.jpg, id=477, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/12 - Databricks.jpg Graphic file (type jpg)
 <use ./fotos/Databricks/12 - Databricks.jpg>
 Package pdftex.def Info: ./fotos/Databricks/12 - Databricks.jpg  used on input 
-line 810.
+line 841.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 813.
-LaTeX Info: Redefining \% on input line 813.
- [40 <./fotos/Databricks/11 - Databricks (V).jpg> <./fotos/Databricks/10 - Data
+LaTeX Info: Redefining \. on input line 844.
+LaTeX Info: Redefining \% on input line 844.
+ [42 <./fotos/Databricks/11 - Databricks (V).jpg> <./fotos/Databricks/10 - Data
 bricks.jpg>]
-<./fotos/Databricks/13 - Databricks.jpg, id=472, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/13 - Databricks.jpg, id=482, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/13 - Databricks.jpg Graphic file (type jpg)
 <use ./fotos/Databricks/13 - Databricks.jpg>
 Package pdftex.def Info: ./fotos/Databricks/13 - Databricks.jpg  used on input 
-line 816.
+line 847.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/Databricks/14 - Databricks.jpg, id=473, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/14 - Databricks.jpg, id=483, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/14 - Databricks.jpg Graphic file (type jpg)
 <use ./fotos/Databricks/14 - Databricks.jpg>
 Package pdftex.def Info: ./fotos/Databricks/14 - Databricks.jpg  used on input 
-line 824.
+line 855.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 827.
-LaTeX Info: Redefining \% on input line 827.
- [41 <./fotos/Databricks/12 - Databricks.jpg> <./fotos/Databricks/13 - Databric
+LaTeX Info: Redefining \. on input line 858.
+LaTeX Info: Redefining \% on input line 858.
+ [43 <./fotos/Databricks/12 - Databricks.jpg> <./fotos/Databricks/13 - Databric
 ks.jpg>]
-<./fotos/Databricks/15 - Databricks.jpg, id=478, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/15 - Databricks.jpg, id=489, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/15 - Databricks.jpg Graphic file (type jpg)
 <use ./fotos/Databricks/15 - Databricks.jpg>
 Package pdftex.def Info: ./fotos/Databricks/15 - Databricks.jpg  used on input 
-line 832.
+line 863.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/Databricks/16 - Databricks (V).jpg, id=479, 1028.34187pt x 578.16pt>
+<./fotos/Databricks/16 - Databricks (V).jpg, id=490, 1028.34187pt x 578.16pt>
 File: ./fotos/Databricks/16 - Databricks (V).jpg Graphic file (type jpg)
 <use ./fotos/Databricks/16 - Databricks (V).jpg>
 Package pdftex.def Info: ./fotos/Databricks/16 - Databricks (V).jpg  used on in
-put line 840.
+put line 871.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 843.
-LaTeX Info: Redefining \% on input line 843.
- [42 <./fotos/Databricks/14 - Databricks.jpg> <./fotos/Databricks/15 - Databric
+LaTeX Info: Redefining \. on input line 874.
+LaTeX Info: Redefining \% on input line 874.
+ [44 <./fotos/Databricks/14 - Databricks.jpg> <./fotos/Databricks/15 - Databric
 ks.jpg>]
-LaTeX Info: Redefining \. on input line 844.
-LaTeX Info: Redefining \% on input line 844.
- [43 <./fotos/Databricks/16 - Databricks (V).jpg>]
-<./fotos/GoogleCloud/1 - GC (V).jpg, id=490, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 875.
+LaTeX Info: Redefining \% on input line 875.
+ [45 <./fotos/Databricks/16 - Databricks (V).jpg>]
+<./fotos/GoogleCloud/1 - GC (V).jpg, id=500, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/1 - GC (V).jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/1 - GC (V).jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/1 - GC (V).jpg  used on input line
- 864.
+ 895.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/2 - GC.jpg, id=491, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/2 - GC.jpg, id=501, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/2 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/2 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/2 - GC.jpg  used on input line 872
+Package pdftex.def Info: ./fotos/GoogleCloud/2 - GC.jpg  used on input line 903
 .
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 875.
-LaTeX Info: Redefining \% on input line 875.
- [44
+LaTeX Info: Redefining \. on input line 906.
+LaTeX Info: Redefining \% on input line 906.
+ [46
 
  <./fotos/GoogleCloud/1 - GC (V).jpg>]
-<./fotos/GoogleCloud/4 - GC.jpg, id=497, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/4 - GC.jpg, id=507, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/4 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/4 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/4 - GC.jpg  used on input line 880
+Package pdftex.def Info: ./fotos/GoogleCloud/4 - GC.jpg  used on input line 911
 .
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/5 - GC.jpg, id=498, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/5 - GC.jpg, id=508, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/5 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/5 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/5 - GC.jpg  used on input line 888
+Package pdftex.def Info: ./fotos/GoogleCloud/5 - GC.jpg  used on input line 919
 .
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 891.
-LaTeX Info: Redefining \% on input line 891.
- [45 <./fotos/GoogleCloud/2 - GC.jpg> <./fotos/GoogleCloud/4 - GC.jpg>]
-<./fotos/GoogleCloud/6 - GC (V).jpg, id=503, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 922.
+LaTeX Info: Redefining \% on input line 922.
+ [47 <./fotos/GoogleCloud/2 - GC.jpg> <./fotos/GoogleCloud/4 - GC.jpg>]
+<./fotos/GoogleCloud/6 - GC (V).jpg, id=513, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/6 - GC (V).jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/6 - GC (V).jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/6 - GC (V).jpg  used on input line
- 896.
+ 927.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/7 - GC (V).jpg, id=504, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/7 - GC (V).jpg, id=514, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/7 - GC (V).jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/7 - GC (V).jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/7 - GC (V).jpg  used on input line
- 904.
+ 935.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 907.
-LaTeX Info: Redefining \% on input line 907.
- [46 <./fotos/GoogleCloud/5 - GC.jpg> <./fotos/GoogleCloud/6 - GC (V).jpg>]
-<./fotos/GoogleCloud/8 - GC (V).jpg, id=509, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 938.
+LaTeX Info: Redefining \% on input line 938.
+ [48 <./fotos/GoogleCloud/5 - GC.jpg> <./fotos/GoogleCloud/6 - GC (V).jpg>]
+<./fotos/GoogleCloud/8 - GC (V).jpg, id=519, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/8 - GC (V).jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/8 - GC (V).jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/8 - GC (V).jpg  used on input line
- 912.
+ 943.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 920.
-LaTeX Info: Redefining \% on input line 920.
- [47 <./fotos/GoogleCloud/7 - GC (V).jpg> <./fotos/GoogleCloud/8 - GC (V).jpg>]
-<./fotos/GoogleCloud/9 - GC (V).jpg, id=514, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 951.
+LaTeX Info: Redefining \% on input line 951.
+ [49 <./fotos/GoogleCloud/7 - GC (V).jpg> <./fotos/GoogleCloud/8 - GC (V).jpg>]
+<./fotos/GoogleCloud/9 - GC (V).jpg, id=525, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/9 - GC (V).jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/9 - GC (V).jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/9 - GC (V).jpg  used on input line
- 924.
+ 955.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/10 - GC.jpg, id=515, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/10 - GC.jpg, id=526, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/10 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/10 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/10 - GC.jpg  used on input line 93
-4.
+Package pdftex.def Info: ./fotos/GoogleCloud/10 - GC.jpg  used on input line 96
+5.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 939.
-LaTeX Info: Redefining \% on input line 939.
- [48 <./fotos/GoogleCloud/9 - GC (V).jpg> <./fotos/GoogleCloud/10 - GC.jpg>]
-<./fotos/GoogleCloud/11 - GC.jpg, id=520, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 970.
+LaTeX Info: Redefining \% on input line 970.
+ [50 <./fotos/GoogleCloud/9 - GC (V).jpg> <./fotos/GoogleCloud/10 - GC.jpg>]
+<./fotos/GoogleCloud/11 - GC.jpg, id=531, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/11 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/11 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/11 - GC.jpg  used on input line 94
-4.
+Package pdftex.def Info: ./fotos/GoogleCloud/11 - GC.jpg  used on input line 97
+5.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/12 - GC.jpg, id=521, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/12 - GC.jpg, id=532, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/12 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/12 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/12 - GC.jpg  used on input line 95
-0.
+Package pdftex.def Info: ./fotos/GoogleCloud/12 - GC.jpg  used on input line 98
+1.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/13 - GC.jpg, id=522, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/13 - GC.jpg, id=533, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/13 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/13 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/13 - GC.jpg  used on input line 95
-6.
+Package pdftex.def Info: ./fotos/GoogleCloud/13 - GC.jpg  used on input line 98
+7.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 959.
-LaTeX Info: Redefining \% on input line 959.
- [49 <./fotos/GoogleCloud/11 - GC.jpg> <./fotos/GoogleCloud/12 - GC.jpg>]
-<./fotos/GoogleCloud/14 - GC.jpg, id=528, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 990.
+LaTeX Info: Redefining \% on input line 990.
+ [51 <./fotos/GoogleCloud/11 - GC.jpg> <./fotos/GoogleCloud/12 - GC.jpg>]
+<./fotos/GoogleCloud/14 - GC.jpg, id=538, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/14 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/14 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/14 - GC.jpg  used on input line 96
-2.
+Package pdftex.def Info: ./fotos/GoogleCloud/14 - GC.jpg  used on input line 99
+3.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/15 - GC.jpg, id=529, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/15 - GC.jpg, id=539, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/15 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/15 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/15 - GC.jpg  used on input line 96
-8.
+Package pdftex.def Info: ./fotos/GoogleCloud/15 - GC.jpg  used on input line 99
+9.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 971.
-LaTeX Info: Redefining \% on input line 971.
- [50 <./fotos/GoogleCloud/13 - GC.jpg> <./fotos/GoogleCloud/14 - GC.jpg>]
-<./fotos/GoogleCloud/16 - GC.jpg, id=534, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1002.
+LaTeX Info: Redefining \% on input line 1002.
+ [52 <./fotos/GoogleCloud/13 - GC.jpg> <./fotos/GoogleCloud/14 - GC.jpg>]
+<./fotos/GoogleCloud/16 - GC.jpg, id=544, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/16 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/16 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/16 - GC.jpg  used on input line 97
-6.
+Package pdftex.def Info: ./fotos/GoogleCloud/16 - GC.jpg  used on input line 10
+07.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
 File: ./fotos/GoogleCloud/16 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/16 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/16 - GC.jpg  used on input line 98
-4.
+Package pdftex.def Info: ./fotos/GoogleCloud/16 - GC.jpg  used on input line 10
+15.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 987.
-LaTeX Info: Redefining \% on input line 987.
- [51 <./fotos/GoogleCloud/15 - GC.jpg> <./fotos/GoogleCloud/16 - GC.jpg>]
-<./fotos/GoogleCloud/21 - GC.jpg, id=539, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1018.
+LaTeX Info: Redefining \% on input line 1018.
+ [53 <./fotos/GoogleCloud/15 - GC.jpg> <./fotos/GoogleCloud/16 - GC.jpg>]
+<./fotos/GoogleCloud/21 - GC.jpg, id=549, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/21 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/21 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/21 - GC.jpg  used on input line 99
-8.
+Package pdftex.def Info: ./fotos/GoogleCloud/21 - GC.jpg  used on input line 10
+29.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/22 - GC.jpg, id=540, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/22 - GC.jpg, id=550, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/22 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/22 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/22 - GC.jpg  used on input line 10
-06.
+37.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1008.
-LaTeX Info: Redefining \% on input line 1008.
- [52 <./fotos/GoogleCloud/21 - GC.jpg>]
-<./fotos/GoogleCloud/23 - GC.jpg, id=545, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1039.
+LaTeX Info: Redefining \% on input line 1039.
+ [54 <./fotos/GoogleCloud/21 - GC.jpg>]
+<./fotos/GoogleCloud/23 - GC.jpg, id=555, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/23 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/23 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/23 - GC.jpg  used on input line 10
-14.
+45.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1023.
-LaTeX Info: Redefining \% on input line 1023.
- [53 <./fotos/GoogleCloud/22 - GC.jpg> <./fotos/GoogleCloud/23 - GC.jpg>]
-<./fotos/GoogleCloud/24 - GC.jpg, id=550, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1054.
+LaTeX Info: Redefining \% on input line 1054.
+ [55 <./fotos/GoogleCloud/22 - GC.jpg> <./fotos/GoogleCloud/23 - GC.jpg>]
+<./fotos/GoogleCloud/24 - GC.jpg, id=561, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/24 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/24 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/24 - GC.jpg  used on input line 10
-28.
+59.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/25 - GC.jpg, id=551, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/25 - GC.jpg, id=562, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/25 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/25 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/25 - GC.jpg  used on input line 10
-34.
+65.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1041.
-LaTeX Info: Redefining \% on input line 1041.
- [54 <./fotos/GoogleCloud/24 - GC.jpg> <./fotos/GoogleCloud/25 - GC.jpg>]
-<./fotos/GoogleCloud/26 - GC.jpg, id=556, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1072.
+LaTeX Info: Redefining \% on input line 1072.
+ [56 <./fotos/GoogleCloud/24 - GC.jpg> <./fotos/GoogleCloud/25 - GC.jpg>]
+<./fotos/GoogleCloud/26 - GC.jpg, id=567, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/26 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/26 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/26 - GC.jpg  used on input line 10
-44.
+75.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/27 - GC.jpg, id=557, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/27 - GC.jpg, id=568, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/27 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/27 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/27 - GC.jpg  used on input line 10
-52.
+83.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/28 - GC.jpg, id=558, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/28 - GC.jpg, id=569, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/28 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/28 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/28 - GC.jpg  used on input line 10
-60.
+91.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1063.
-LaTeX Info: Redefining \% on input line 1063.
- [55 <./fotos/GoogleCloud/26 - GC.jpg> <./fotos/GoogleCloud/27 - GC.jpg>]
-<./fotos/GoogleCloud/29 - GC.jpg, id=564, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1094.
+LaTeX Info: Redefining \% on input line 1094.
+ [57 <./fotos/GoogleCloud/26 - GC.jpg> <./fotos/GoogleCloud/27 - GC.jpg>]
+<./fotos/GoogleCloud/29 - GC.jpg, id=574, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/29 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/29 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/29 - GC.jpg  used on input line 10
-68.
+99.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/30 - GC.jpg, id=565, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/30 - GC.jpg, id=575, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/30 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/30 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/30 - GC.jpg  used on input line 10
-76.
+Package pdftex.def Info: ./fotos/GoogleCloud/30 - GC.jpg  used on input line 11
+07.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1079.
-LaTeX Info: Redefining \% on input line 1079.
- [56 <./fotos/GoogleCloud/28 - GC.jpg> <./fotos/GoogleCloud/29 - GC.jpg>]
-<./fotos/GoogleCloud/31 - GC.jpg, id=570, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1110.
+LaTeX Info: Redefining \% on input line 1110.
+ [58 <./fotos/GoogleCloud/28 - GC.jpg> <./fotos/GoogleCloud/29 - GC.jpg>]
+<./fotos/GoogleCloud/31 - GC.jpg, id=580, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/31 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/31 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/31 - GC.jpg  used on input line 10
-84.
+Package pdftex.def Info: ./fotos/GoogleCloud/31 - GC.jpg  used on input line 11
+15.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/32 - GC.jpg, id=571, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/32 - GC.jpg, id=581, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/32 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/32 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/32 - GC.jpg  used on input line 10
-92.
+Package pdftex.def Info: ./fotos/GoogleCloud/32 - GC.jpg  used on input line 11
+23.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1095.
-LaTeX Info: Redefining \% on input line 1095.
- [57 <./fotos/GoogleCloud/30 - GC.jpg> <./fotos/GoogleCloud/31 - GC.jpg>]
-<./fotos/GoogleCloud/33 - GC.jpg, id=576, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1126.
+LaTeX Info: Redefining \% on input line 1126.
+ [59 <./fotos/GoogleCloud/30 - GC.jpg> <./fotos/GoogleCloud/31 - GC.jpg>]
+<./fotos/GoogleCloud/33 - GC.jpg, id=586, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/33 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/33 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/33 - GC.jpg  used on input line 11
-00.
+31.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/34 - GC.jpg, id=577, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/34 - GC.jpg, id=587, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/34 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/34 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/34 - GC.jpg  used on input line 11
-08.
+39.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1111.
-LaTeX Info: Redefining \% on input line 1111.
- [58 <./fotos/GoogleCloud/32 - GC.jpg> <./fotos/GoogleCloud/33 - GC.jpg>]
-<./fotos/GoogleCloud/35 - GC.jpg, id=582, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1142.
+LaTeX Info: Redefining \% on input line 1142.
+ [60 <./fotos/GoogleCloud/32 - GC.jpg> <./fotos/GoogleCloud/33 - GC.jpg>]
+<./fotos/GoogleCloud/35 - GC.jpg, id=592, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/35 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/35 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/35 - GC.jpg  used on input line 11
-16.
+47.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/36 - GC.jpg, id=583, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/36 - GC.jpg, id=593, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/36 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/36 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/36 - GC.jpg  used on input line 11
-24.
+55.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1127.
-LaTeX Info: Redefining \% on input line 1127.
- [59 <./fotos/GoogleCloud/34 - GC.jpg> <./fotos/GoogleCloud/35 - GC.jpg>]
-<./fotos/GoogleCloud/37 - GC.jpg, id=588, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1158.
+LaTeX Info: Redefining \% on input line 1158.
+ [61 <./fotos/GoogleCloud/34 - GC.jpg> <./fotos/GoogleCloud/35 - GC.jpg>]
+<./fotos/GoogleCloud/37 - GC.jpg, id=599, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/37 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/37 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/37 - GC.jpg  used on input line 11
-32.
+63.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/38 - GC.jpg, id=589, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/38 - GC.jpg, id=600, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/38 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/38 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/38 - GC.jpg  used on input line 11
-40.
+71.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1143.
-LaTeX Info: Redefining \% on input line 1143.
- [60 <./fotos/GoogleCloud/36 - GC.jpg> <./fotos/GoogleCloud/37 - GC.jpg>]
-<./fotos/GoogleCloud/39 - GC.jpg, id=594, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1174.
+LaTeX Info: Redefining \% on input line 1174.
+ [62 <./fotos/GoogleCloud/36 - GC.jpg> <./fotos/GoogleCloud/37 - GC.jpg>]
+<./fotos/GoogleCloud/39 - GC.jpg, id=605, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/39 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/39 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/39 - GC.jpg  used on input line 11
-50.
+81.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/40 - GC.jpg, id=595, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/40 - GC.jpg, id=606, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/40 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/40 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/40 - GC.jpg  used on input line 11
-58.
+89.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1161.
-LaTeX Info: Redefining \% on input line 1161.
- [61 <./fotos/GoogleCloud/38 - GC.jpg> <./fotos/GoogleCloud/39 - GC.jpg>]
-<./fotos/GoogleCloud/42 - GC.jpg, id=601, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1192.
+LaTeX Info: Redefining \% on input line 1192.
+ [63 <./fotos/GoogleCloud/38 - GC.jpg> <./fotos/GoogleCloud/39 - GC.jpg>]
+<./fotos/GoogleCloud/42 - GC.jpg, id=611, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/42 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/42 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/42 - GC.jpg  used on input line 11
-68.
+99.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/41 - GC.jpg, id=602, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/41 - GC.jpg, id=612, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/41 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/41 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/41 - GC.jpg  used on input line 11
-76.
+Package pdftex.def Info: ./fotos/GoogleCloud/41 - GC.jpg  used on input line 12
+07.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1179.
-LaTeX Info: Redefining \% on input line 1179.
- [62 <./fotos/GoogleCloud/40 - GC.jpg> <./fotos/GoogleCloud/42 - GC.jpg>]
-<./fotos/GoogleCloud/43 - GC.jpg, id=607, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1210.
+LaTeX Info: Redefining \% on input line 1210.
+ [64 <./fotos/GoogleCloud/40 - GC.jpg> <./fotos/GoogleCloud/42 - GC.jpg>]
+<./fotos/GoogleCloud/43 - GC.jpg, id=617, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/43 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/43 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/43 - GC.jpg  used on input line 11
-84.
+Package pdftex.def Info: ./fotos/GoogleCloud/43 - GC.jpg  used on input line 12
+15.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/44 - GC.jpg, id=608, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/44 - GC.jpg, id=618, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/44 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/44 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/44 - GC.jpg  used on input line 11
-90.
+Package pdftex.def Info: ./fotos/GoogleCloud/44 - GC.jpg  used on input line 12
+21.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1193.
-LaTeX Info: Redefining \% on input line 1193.
-[63 <./fotos/GoogleCloud/41 - GC.jpg> <./fotos/GoogleCloud/43 - GC.jpg>]
-<./fotos/GoogleCloud/45 - GC.jpg, id=613, 1028.34187pt x 578.16pt>
+LaTeX Info: Redefining \. on input line 1224.
+LaTeX Info: Redefining \% on input line 1224.
+[65 <./fotos/GoogleCloud/41 - GC.jpg> <./fotos/GoogleCloud/43 - GC.jpg>]
+<./fotos/GoogleCloud/45 - GC.jpg, id=623, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/45 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/45 - GC.jpg>
-Package pdftex.def Info: ./fotos/GoogleCloud/45 - GC.jpg  used on input line 11
-98.
+Package pdftex.def Info: ./fotos/GoogleCloud/45 - GC.jpg  used on input line 12
+29.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/46 - GC.jpg, id=614, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/46 - GC.jpg, id=624, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/46 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/46 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/46 - GC.jpg  used on input line 12
-04.
+35.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1207.
-LaTeX Info: Redefining \% on input line 1207.
+LaTeX Info: Redefining \. on input line 1238.
+LaTeX Info: Redefining \% on input line 1238.
 
-[64 <./fotos/GoogleCloud/44 - GC.jpg> <./fotos/GoogleCloud/45 - GC.jpg>]
-<./fotos/GoogleCloud/47 - GC.jpg, id=619, 1028.34187pt x 578.16pt>
+[66 <./fotos/GoogleCloud/44 - GC.jpg> <./fotos/GoogleCloud/45 - GC.jpg>]
+<./fotos/GoogleCloud/47 - GC.jpg, id=629, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/47 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/47 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/47 - GC.jpg  used on input line 12
-12.
+43.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-<./fotos/GoogleCloud/48 - GC.jpg, id=620, 1028.34187pt x 578.16pt>
+<./fotos/GoogleCloud/48 - GC.jpg, id=630, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/48 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/48 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/48 - GC.jpg  used on input line 12
-20.
+51.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
-LaTeX Info: Redefining \. on input line 1223.
-LaTeX Info: Redefining \% on input line 1223.
+LaTeX Info: Redefining \. on input line 1254.
+LaTeX Info: Redefining \% on input line 1254.
 
-[65 <./fotos/GoogleCloud/46 - GC.jpg> <./fotos/GoogleCloud/47 - GC.jpg>]
-<./fotos/GoogleCloud/49 - GC.jpg, id=625, 1028.34187pt x 578.16pt>
+[67 <./fotos/GoogleCloud/46 - GC.jpg> <./fotos/GoogleCloud/47 - GC.jpg>]
+<./fotos/GoogleCloud/49 - GC.jpg, id=636, 1028.34187pt x 578.16pt>
 File: ./fotos/GoogleCloud/49 - GC.jpg Graphic file (type jpg)
 <use ./fotos/GoogleCloud/49 - GC.jpg>
 Package pdftex.def Info: ./fotos/GoogleCloud/49 - GC.jpg  used on input line 12
-28.
+59.
 (pdftex.def)             Requested size: 500.0pt x 281.11302pt.
 
-Overfull \hbox (4.82385pt too wide) in paragraph at lines 1232--1233
+Overfull \hbox (4.82385pt too wide) in paragraph at lines 1263--1264
 []\OT1/cmr/m/n/10 Como pue-des apre-ciar, la ru-ta pa-ra ac-ce-der a los da-tos
  al-ma-ce-na-dos en Sto-ra-ge tie-nen la ru-ta: gs://bosonit/data/dataset.csv
  []
 
-LaTeX Info: Redefining \. on input line 1239.
-LaTeX Info: Redefining \% on input line 1239.
-[66 <./fotos/GoogleCloud/48 - GC.jpg> <./fotos/GoogleCloud/49 - GC.jpg>]
-<./fotos/eleccioncompresion.jpg, id=630, 782.17218pt x 233.37187pt>
+LaTeX Info: Redefining \. on input line 1270.
+LaTeX Info: Redefining \% on input line 1270.
+[68 <./fotos/GoogleCloud/48 - GC.jpg> <./fotos/GoogleCloud/49 - GC.jpg>]
+<./fotos/eleccioncompresion.jpg, id=641, 782.17218pt x 233.37187pt>
 File: ./fotos/eleccioncompresion.jpg Graphic file (type jpg)
 <use ./fotos/eleccioncompresion.jpg>
-Package pdftex.def Info: ./fotos/eleccioncompresion.jpg  used on input line 124
-8.
+Package pdftex.def Info: ./fotos/eleccioncompresion.jpg  used on input line 127
+9.
 (pdftex.def)             Requested size: 500.0pt x 149.18298pt.
-LaTeX Info: Redefining \. on input line 1264.
-LaTeX Info: Redefining \% on input line 1264.
+LaTeX Info: Redefining \. on input line 1295.
+LaTeX Info: Redefining \% on input line 1295.
 
-[67 <./fotos/eleccioncompresion.jpg>]
-LaTeX Info: Redefining \. on input line 1299.
-LaTeX Info: Redefining \% on input line 1299.
- [68
+[69 <./fotos/eleccioncompresion.jpg>]
+LaTeX Info: Redefining \. on input line 1330.
+LaTeX Info: Redefining \% on input line 1330.
+ [70
 
 ] (Spark.aux
 LaTeX Info: Redefining \. on input line 25.
@@ -1516,10 +1536,10 @@ Package rerunfilecheck Info: File `Spark.out' has not changed.
 (rerunfilecheck)             Checksum: 1F0CCDC9822572C3C29D0ED6AF16A8DF;6568.
  ) 
 Here is how much of TeX's memory you used:
- 13131 strings out of 478870
- 209206 string characters out of 2845992
- 829712 words of memory out of 3000000
- 30592 multiletter control sequences out of 15000+600000
+ 13147 strings out of 478870
+ 209804 string characters out of 2845992
+ 829826 words of memory out of 3000000
+ 30604 multiletter control sequences out of 15000+600000
  411950 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,13n,66p,743b,1286s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1535,9 +1555,9 @@ msfonts/cm/cmr8.pfb><C:/Users/pablo.oliva/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pablo.oliva/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pablo.oliva/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Spark.pdf (68 pages, 17990390 bytes).
+Output written on Spark.pdf (70 pages, 18154686 bytes).
 PDF statistics:
- 730 PDF objects out of 1000 (max. 8388607)
- 138 named destinations out of 1000 (max. 500000)
- 870 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 741 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 880 words of extra memory for PDF output out of 10000 (max. 10000000)
 
